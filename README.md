@@ -3,7 +3,7 @@
 
 很简单
 
-组合运用drawLine,drawPath,drawCircle即可实现.
+>组合运用drawLine,drawPath,drawCircle即可实现.
 
 效果图
 
