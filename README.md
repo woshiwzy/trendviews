@@ -1,3 +1,3 @@
 # trendviews
 不依赖第三方框架实现的几种可交互的数据趋势图
-[效果图](result.gif)
+![avatar](result.gif)
